@@ -1,3 +1,3 @@
 
-def send_other_str(string: str):
+def send_other_str(str: str):
     print("This file receives API key")
