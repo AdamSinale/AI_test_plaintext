@@ -10,5 +10,5 @@ def main():
     send_other_str(safeStr)
 
 if __name__ == "__main__":
-    print("Hardcoded test")
+    # print('Hardcoded test')
     main()
